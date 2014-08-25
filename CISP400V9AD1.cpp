@@ -1,5 +1,6 @@
 // CISP400V9AD1.cpp
 // Create and manipulate two Employee objects.
+// Assignment AD1, Aleksey Leshchuk
 #include <iostream>
 using std::cout;
 using std::endl;
