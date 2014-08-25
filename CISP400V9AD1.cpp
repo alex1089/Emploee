@@ -66,6 +66,7 @@ int main()
       << ": $" << monthlySalary4 * 12 << endl<<endl;
 
    //system("PAUSE");
+   //cool
    return 0; // indicate successful termination
 } // end main
 
